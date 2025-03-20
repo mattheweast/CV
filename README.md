@@ -1,7 +1,7 @@
 # Matthew East CV
 
 # Matthew East  
-London, United Kingdom | contact.matteast@icloud.com | 07544001659
+London, United Kingdom
 
 ## Summary  
 Highly motivated **Apple Apprentice Software Engineer** with a strong foundation in **Software Engineering** and **DevOps** principles gained through a 5-month immersive boot camp at **Makers Academy**, followed by 12+ months of hands-on experience working in **Quality Assurance** and **Data Engineering**. Seeking opportunities to further develop my skills and contribute to challenging projects within a collaborative environment.
